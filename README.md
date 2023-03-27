@@ -3,7 +3,7 @@
 ## Description
 This Python program is designed for aiding Latin language learners to memorize the verb conjugations.
 
-Included French tenses:
+Included Italian tenses:
 * Presente
 * Imperfetto
 * Futuro semplice
