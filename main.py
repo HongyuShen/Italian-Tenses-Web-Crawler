@@ -14,7 +14,8 @@ verb_list = None
 data_frame = None
 
 headers = requests.utils.default_headers()
-headers.update({'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',})
+headers.update({'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0', })
+
 
 def search_all_verbs():
     global word_count
