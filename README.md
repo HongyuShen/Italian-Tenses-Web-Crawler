@@ -11,7 +11,7 @@ Included Italian tenses:
 * Trapassato prossimo
 * Futuro anteriore
 
-So far the list contains 926 verbs: https://rb.gy/lzghin
+So far the list contains 938 verbs: https://rb.gy/lzghin
 
 ## Configuration
 Preferred IDE: PyCharm
